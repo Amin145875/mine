@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"\t    O\t    O\n";
+    cout<<"\t   _|_\t  -|-\n";
+    cout<<"\t    |\t     ^ \n";
+    cout<<"\t   / \\\t / \\ \n";
+    cout<<"\t\t";
+}
